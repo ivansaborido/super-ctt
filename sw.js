@@ -1,5 +1,5 @@
 // Super CTC: funciona sin conexión. Sube el número de versión cada vez que cambies el juego.
-const VERSION = 'super-ctc-3d-v1';
+const VERSION = 'super-ctc-3d-v2';
 const APP = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
